@@ -14,7 +14,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # ─────────────────────────────── Série temporal ────────────────────
-# f(t) para t = 1..100 (treinamento) e t = 101..120 (teste)
+# f(t) para t = 1..100 (treinamento) E t = 101..120 (teste)
 F_TRAIN = np.array([
     0.1701,0.1023,0.4405,0.3609,0.7192,0.2258,0.3175,0.0127,0.4290,0.0544,
     0.8000,0.0450,0.4268,0.0112,0.3218,0.2185,0.7240,0.3516,0.4420,0.0984,
